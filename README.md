@@ -40,5 +40,5 @@ A desktop app built for a wig salon to manage appointments, client details, and 
 ## 💬 Let's Connect
 
 I'm always happy to connect, collaborate, or just chat.  
-📩 [noa4970@gmail.com]
-🔗 [LinkedIn][https://www.linkedin.com/in/noa-peles-063026292/]
+📩 [Gmail](noa4970@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/noa-peles-063026292/)
